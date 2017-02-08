@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/*reset*/
+body, h1, h2, h3, h4, h5, h6, p, dl, dd, ul, ol, pre, form, input, textarea, th, td, select { margin: 0; padding: 0; }
+
+em { font-style: normal; }
+
+li { margin: 0; padding: 0; list-style: none; }
+
+a { margin: 0; padding: 0; text-decoration: none; color: black; }
+
+img { border: none; }
+
+table { border-collapse: collapse; }
+
+textarea { resize: none; overflow: hidden; }
+
+/*public*/
+body { font-family: '微软雅黑'; color: #3a3b39; }
+
+.wrap { width: 100%; max-width: 1330px; margin: 0 auto; }
+
+.clear { zoom: 1; }
+
+.clear::after { content: ''; display: block; clear: both; }
+
+.product li { margin: 10px 20px; display: inline-block; box-sizing: border-box; width: 230px; height: 350px; background-color: white; }
+
+.product li:hover { border: 4px solid #e5004b; }
+
+.product li .margin { padding-left: 15px; }
+
+.product li p { line-height: 20px; }
+
+.product li p a { font-size: 12px; color: #666; }
+
+.product li p a:hover { color: #e5004b; }
+
+.product li .discountprice { color: #e5004b; font-size: 16px; font-weight: bolder; }
+
+.product li .normalprice { color: #666; font-size: 12px; }
+
+.product li input { width: 34px; height: 34px; border: 1px solid gray; text-align: center; }
+
+.product li .add div { display: inline-block; vertical-align: top; }
+
+.product li .add span { display: inline-block; text-align: center; line-height: 15px; width: 15px; height: 15px; border: 1px solid gray; }
+
+.product li .buy { width: 100px; border: 1px solid gray; background-color: #f6f6f6; color: gray; cursor: pointer; }
+
+.product li .buy:hover { color: #e5004b; }
+
+.product li .collect { width: 50px; border: 1px solid gray; background-color: #f6f6f6; color: gray; cursor: pointer; }
+
+.product li .collect:hover { color: #e5004b; }
+
+.car { height: 100%; width: 50px; background-color: #e5004b; display: inline-block; position: fixed; right: 0; top: 0; z-index: 10000; }
+
+.car span { display: inline-block; height: 25px; width: 25px; border-radius: 50%; text-align: center; line-height: 25px; font-size: 12px; background: #FFFFFF; color: #e5004b; }

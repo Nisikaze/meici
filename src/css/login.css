@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/*登录*/
+.loginbox #signin, .loginbox #login, #loginbtn { display: block; background-color: #8E0C3A; width: 200px; height: 30px; line-height: 30px; color: white; text-align: center; float: right; border: none; }
+
+.loginbox #signin:hover, .loginbox #login:hover, #loginbtn:hover { cursor: pointer; }
+
+.login .wrap { position: relative; }
+
+.login #login { margin-left: 180px; }
+
+.login #welcome { position: absolute; left: 180px; }
+
+.loginbox { font-size: 12px; position: absolute; bottom: 237px; left: 208px; color: #7A7A7A; line-height: 40px; }
+
+.loginbox:last-child a { color: #8E0C3A; text-align: right; }
+
+.loginbox label { text-align: right; display: block; }
+
+.loginbox label input { width: 200px; height: 20px; }
+
+.loginbox p { text-align: right; margin-left: 60px; }
+
+.registerTo { width: 200px; text-align: right; position: absolute; left: auto; top: 190px; right: 0; }
+
+.registerTo a { color: #8E0C3A; }
+
+.phone { position: absolute; top: 139px; left: 327px; }
+
+.phone p { color: #8E0C3A; }
+
+/*注册*/
+.registerbox { position: absolute; top: 176px; }
+
+/*提示语*/
+.warming { position: relative; left: 20.5%; top: -100px; }
+
+.warming span { color: #8E0C3A; font-size: 12px; display: inline-block; position: absolute; display: none; }
+
+.loginbox .warming { position: relative; left: 47.5%; top: 38px; }

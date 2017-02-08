@@ -1,0 +1,701 @@
+ [{
+     "id": "G001",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-114711-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G002",
+     "title": "LES PETITS JOUEURS 马克贾尼斯系列 女士 彩虹包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-113211-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G003",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提 包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112248-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G004",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112481-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G005",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G006",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112403-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G007",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112377-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G008",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G009",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112248-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G010",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G011",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-114711-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G012",
+     "title": "LES PETITS JOUEURS 马克贾尼斯系列 女士 彩虹包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-113211-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G013",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G014",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G015",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G016",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G017",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112322-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G018",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G019",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G020",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112322-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ },{
+     "id": "G001",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-114711-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G002",
+     "title": "LES PETITS JOUEURS 马克贾尼斯系列 女士 彩虹包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-113211-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G003",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提 包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112248-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G004",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112481-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G005",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G006",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112403-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G007",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112377-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G008",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G009",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112248-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G010",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G011",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-114711-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G012",
+     "title": "LES PETITS JOUEURS 马克贾尼斯系列 女士 彩虹包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-113211-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G013",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G014",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G015",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G016",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G017",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112322-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G018",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G019",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G020",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112322-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ },{
+     "id": "G001",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-114711-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G002",
+     "title": "LES PETITS JOUEURS 马克贾尼斯系列 女士 彩虹包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-113211-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G003",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提 包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112248-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G004",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112481-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G005",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G006",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112403-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G007",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112377-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G008",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G009",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112248-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G010",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G011",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-114711-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G012",
+     "title": "LES PETITS JOUEURS 马克贾尼斯系列 女士 彩虹包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-113211-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G013",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G014",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G015",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G016",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G017",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112322-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G018",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G019",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G020",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112322-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ },{
+     "id": "G001",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-114711-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G002",
+     "title": "LES PETITS JOUEURS 马克贾尼斯系列 女士 彩虹包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-113211-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G003",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提 包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112248-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G004",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112481-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G005",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G006",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112403-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G007",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112377-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G008",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G009",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112248-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G010",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G011",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-114711-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G012",
+     "title": "LES PETITS JOUEURS 马克贾尼斯系列 女士 彩虹包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-113211-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G013",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G014",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G015",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G016",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G017",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112322-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G018",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G019",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G020",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112322-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ },{
+     "id": "G001",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-114711-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G002",
+     "title": "LES PETITS JOUEURS 马克贾尼斯系列 女士 彩虹包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-113211-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G003",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提 包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112248-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G004",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112481-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G005",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G006",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112403-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G007",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112377-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G008",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G009",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112248-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G010",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G011",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-114711-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G012",
+     "title": "LES PETITS JOUEURS 马克贾尼斯系列 女士 彩虹包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-113211-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G013",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G014",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G015",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G016",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112394-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G017",
+     "title": "LES PETITS JOUEURS 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112322-1.jpg",
+     "normalprice": "￥5308.00",
+     "discountprice": "活动价：¥4100.00"
+ }, {
+     "id": "G018",
+     "title": "Michael Kors 迈克高仕 牛皮 女士 手提包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G019",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112247-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }, {
+     "id": "G020",
+     "title": "Burberry 博柏利 牛皮 女士 单肩包 ",
+     "category": "bag",
+     "imgurl": "../img/productlist/r-112322-1.jpg",
+     "normalprice": "¥9490.00",
+     "meiciprice": "¥7490.00"
+ }]

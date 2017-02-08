@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/*商品列表页面*/
+.main .chosebox .title a { color: #8E0C3A; font-weight: bolder; }
+
+/*选择菜单*/
+.main { margin-top: 20px; }
+
+.main .chosebox { display: inline-block; background-color: white; width: 200px; font-size: 14px; line-height: 28px; font-weight: normal; }
+
+.main .chosebox .slide { border-bottom: 1px solid gray; }
+
+.main .chosebox a:hover { color: #8E0C3A; }
+
+.main .chosebox ul ul { padding-left: 20px; }
+
+.main .chosebox .color { margin: 8px 0; }
+
+/*产品列表*/
+.goodslist { width: 1040px; margin-left: 50px; vertical-align: top; display: inline-block; }
+
+.goodslist .showList { border-top: 1px solid gray; border-bottom: 1px solid gray; margin: 20px 0; }
+
+.goodslist .showList li { display: inline-block; width: 250px; margin: 6px 42px; background-color: white; line-height: 25px; vertical-align: top; /*活动价*/ /*普通价*/ }
+
+.goodslist .showList li p { color: #7A7A7A; font-weight: bolder; }
+
+.goodslist .showList li del { font-weight: normal; color: #bbb; }
+
+.goodslist .showList li .discountprice { background-color: #8E0C3A; color: white; }
+
+.goodslist .showList li .meiciprice { float: right; color: #8E0C3A; }
+
+.page .pageLeft { display: inline-block; }
+
+.page .pageLeft a { color: #8E0C3A; padding: 0 15px; }
+
+.pageRight { float: right; display: inline-block; color: #8E0C3A; padding: 0 15px; }
+
+.pageRight span:hover { cursor: pointer; }
+
+/*底部导航*/
+.bottomlist { margin-top: 20px; }
+
+.bottomlist .wrap { padding: 20px 0; border-top: 1px solid gray; border-bottom: 1px solid gray; }
+
+.bottomlist .wrap a { color: #7A7A7A; }
+
+.bottomlist .wrap a:hover { color: #8E0C3A; }
+
+/*侧边栏联系方式及定位*/
+.connectFix { left: 0; right: auto; width: 52px; height: 139px; float: right; position: relative; }
+
+.connectFix span { height: 47px; display: block; cursor: pointer; }
+
+.connectFix span:first-child { background: url("../img/icon/consult.jpg") 0 0 no-repeat; }
+
+.connectFix span:nth-child(2) { background: url("../img/icon/consult.jpg") 0 no-repeat; }
+
+.connectFix span:last-child { background: url("../img/icon/consult.jpg") 0 -88px no-repeat; }

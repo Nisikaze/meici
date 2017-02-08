@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/*
+预处理
+	sass
+	less
+	stylus
+
+	编译Sass文件所需工具:
+		gulp
+		gulp-sass
+*/
+/*reset*/
+body, h1, h2, h3, h4, h5, h6, p, dl, dd, ul, ol, pre, form, input, textarea, th, td, select { margin: 0; padding: 0; }
+
+em { font-style: normal; }
+
+li { list-style: none; }
+
+a { text-decoration: none; color: black; }
+
+img { border: none; }
+
+table { border-collapse: collapse; }
+
+textarea { resize: none; overflow: hidden; }
+
+/*public*/
+body { font-family: '微软雅黑'; color: #3a3b39; }
+
+.wrap { width: 100%; max-width: 1440px; margin: 0 auto; }
+
+.clear { zoom: 1; }
+
+.clear::after { content: ''; display: block; clear: both; }
+
+/*版头header*/
+.top { width: 100%; height: 36px; background-color: #f4f4f4; }
+
+.top .top_left { float: left; }
+
+.top .top_left a { display: inline; font-size: 12px; line-hight: 36px; }
+
+.top .top_left a:hover { color: #8E0C3A; }
+
+.top .top_left a:first-child { border-right: 1px solid #ccc; }
+
+.top .top_right { float: right; }
+
+.header .logo { float: left; }
+
+.header .logo img { width: 80px; height: 80px; border-radius: 50%; }
+
+.header nav.main-nav { float: left; margin: 20px 10 0 10px; }
+
+.header nav.main-nav ul li { float: left; padding: 0 15px; line-height: 2; }
+
+.header nav.main-nav ul li:last-child a { color: #f60; }
+
+.header nav.main-nav ul li:last-child a:hover { color: #f60; }

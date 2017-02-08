@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>购物车</title>
+    <link rel="stylesheet" href="../css/index.css">
+    <link rel="stylesheet" type="text/css" href="../css/carlist.css">
+    <script src="../js/jquery-3.1.1.js"></script>
+    <script src='../js/carlist.js'></script>
+    <script src="../js/index.js"></script>
+</head>
+
+<body>
+    <!-- 版头 -->
+    <div class="top">
+        <div class="wrap">
+            <div class="top_left">
+                <a href="register.html">注册</a>
+                <a href="login.html">登录</a>
+                <a href="carlist.html">订单查询</a>
+                <div class="clear"></div>
+            </div>
+             <!-- 登录后显示 -->
+            <div class="top_welcome">
+                <span>欢迎回来</span>
+                <a href="#" id="logout">退出</a><a href="carlist.html">我的美西</a><a href="carlist.html">订单查询</a>
+            </div>
+            <div class="top_right">
+                <div class="phone">客服热线：4000-250-630 </div>
+                <div class="connect"><span><a href="#"></a>关注我们</span></div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <!-- logo -->
+    <div class="logo">
+        <div class="wrap">
+            <a href="#"><img src="../img/icon/ewm_indexTop.png" alt="QRcode"></a>
+            <img src="../img/icon/ewm_txt.png" alt="APPpic">
+            <a href="index.html"> <img src="../img/index/index.png" alt="logo" id="logo"> </a>
+            <p>
+                <input type="text" name="search" id="search" placeholder="请输入您的关键词">
+                <a href="#"><img src="../img/icon/searchBtn.gif" alt="search" id="searchBtn"></a>
+            </p>
+            <div class="after"></div>
+        </div>
+    </div>
+    <!-- 购物车 -->
+    <div class="carlist">
+        <div class="wrap">
+            <div class="nothing">
+                <p>购物车内暂时没有商品,
+                    <br><a href="list.html">去新品看看</a></p>
+            </div>
+            <div class="getProduct">
+                <div class="wrap">
+                    <div class="infoHead">
+                        <span>商品图片</span>
+                        <span>商品名称</span>
+                        <span>数量</span>
+                        <span>单价</span>
+                        <span>操作</span>
+                    </div>
+                    <div class="infoBody">
+                        <ul>
+                            <!-- <li> <span><img src="../img/productlist/s-109754-2.jpg" alt=""></span>
+                                <span>1222222222222222</span>
+                                <span>1</span>
+                                <span>2000.00</span>
+                                <div><a href="#">移到收藏</a>
+                                    <br>
+                                    <a href="#" id="delete">删除商品</a></div>
+                            </li> -->
+                        </ul>
+                    </div>
+                    <div class="infoBottom">
+                        <p>总价(不含运费):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span></span></p>
+                       <input type="button" value="现在结算">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 联系方式 -->
+    <footer>
+        <div class="wrap">
+            <ul>
+                <li><a href="#">首页</a></li>
+                <li><a href="#"> 关于美西</a></li>
+                <li><a href="#"> 媒体报道</a></li>
+                <li><a href="#"> 正品保证</a></li>
+                <li><a href="#"> 业务合作</a></li>
+                <li><a href="#"> 隐私声明</a></li>
+                <li><a href="#"> 加入美西</a></li>
+                <li><a href="#"> 网站地图</a></li>
+                <li><a href="#"> 联系我们</a></li>
+            </ul>
+            <p>Copyright &copy; 2008-2016 美西时尚-高端时尚生活电商</p>
+            <p><a href="#">沪ICP备09001221号</a></p>
+            <p>
+                <a href="#"><img src="../img/icon/hy_83x30.png" alt=""></a>
+                <a href="#"><img src="../img/icon/ssgs.gif" alt=""></a>
+            </p>
+        </div>
+    </footer>
+</body>
+
+</html>

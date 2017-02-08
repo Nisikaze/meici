@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*购物车内没有商品*/
+.nothing { height: 300px; border: 1px solid #ccc; background: #f9f9f9; margin: 10px 0; }
+
+.nothing p { text-align: center; line-height: 30px; padding: auto; }
+
+.nothing p a { color: #8E0C3A; }
+
+/*有商品*/
+.infoHead { height: 50px; line-height: 50px; background-color: #eee; }
+
+.infoHead span { width: 265px; padding: 0 107px; }
+
+.infoBody li { height: 100px; width: 100%; margin: 10px 0; border-bottom: 1px solid #ccc; }
+
+.infoBody li span { width: 265px; padding: 0 107px; text-align: center; vertical-align: baseline; }
+
+.infoBody li div { display: inline-block; }
+
+.infoBottom { text-align: right; line-height: 30px; margin: 20px 0; }
+
+.infoBottom span { color: #8E0C3A; }
+
+.infoBottom input { background-color: #8E0C3A; color: white; border: none; width: 100px; height: 30px; }
