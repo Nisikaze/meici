@@ -1,15 +1,14 @@
 //读取cookies
-window.onload = function() {
+
+
+    $(function() {
     var carList;
     var cookies = document.cookie.split('; ');
     for (var i = 0; i < cookies.length; i++) {
         var arr = cookies[i].split('=');
         if (arr[0] == 'carlist') {
             carList = JSON.parse(arr[1]);
-        }
-    };
-
-    $(function() {
+        };
         if (carList.length > 0) {
             $('.nothing').hide();
             $('.getProduct').show();
